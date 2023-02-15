@@ -1,1 +1,0 @@
-alert("Tôi là ai giữa cuộc đời này");
